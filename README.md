@@ -39,8 +39,8 @@ I'm also interested in Cloud Computing.
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: *www.linkedin.com/in/omar-khalifa-87605a307*
+- 📧 Email: *omarkhalifa1052003@gmail.com*
 
 ---
 
