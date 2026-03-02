@@ -1,18 +1,65 @@
-# 💫 About Me:
-I'm a Computer Engineering student passionate about Full-Stack Development and AI.<br>I'm interested in Computer Vision, my thesis: <br>"Road Lane Detection Using Convolutional Neural Networks".<br><br>I enjoy building scalable web apps, real-time AI systems, and cloud-based solutions.
-
-
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omarwaelll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omarwaelll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarwaelll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omarwaelll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋, I'm Omar Khalifa</h1>
+<h3 align="center">Computer Engineering Student | MERN Stack Developer | AI & Computer Vision Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omarwaelll&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+- 🎓 Computer Engineering student at GUC  
+- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
+- 🤖 Passionate about AI & Computer Vision  
+- 🛣️ Currently working on my thesis:  
+  **"Road Lane Detection Using Convolutional Neural Networks"**  
+- 🌍 Interested in Cloud Computing & Autonomous Driving Systems  
+- 🇩🇪 Planning to pursue a tech career in Germany  
+
+---
+
+### 🛠️ Tech Stack
+#### 💻 Languages
+- JavaScript | Python | C++ | SQL
+
+#### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5 | CSS3
+
+#### 🤖 AI / Computer Vision
+- TensorFlow
+- PyTorch
+- OpenCV
+- CNN (U-Net, ENet)
+
+#### ☁️ Tools & Technologies
+- Git & GitHub
+- Docker
+- Linux (Ubuntu)
+- Postman
+
+---
+
+### 📌 Featured Projects
+- 🚗 **Road Lane Detection using CNN (U-Net & ENet)**
+- 🌍 **MERN Tourism Web Application**
+- 🔔 **Smart Notification System (Email + In-App)**
+- 📊 Real-time AI & Full-Stack Scalable Applications
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarwaelll&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarwaelll&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: *(add your email here)*
+
+---
+
+### ⚡ Fun Fact
+I’m a professional indoor volleyball player 🏐 and a passionate developer who loves building real-world AI systems 🚀
